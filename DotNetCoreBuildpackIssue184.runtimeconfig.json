@@ -5,6 +5,7 @@
       "name": "Microsoft.NETCore.App",
       "version": "2.0.0"
     },
+    "applyPatches": false,
     "configProperties": {
       "System.GC.Server": true
     }
